@@ -1,13 +1,13 @@
-package com.javatech.proof;
+package com.javatech.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProofApplication {
+public class ClientApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProofApplication.class, args);
+		SpringApplication.run(ClientApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.javatech.proof;
+package com.javatech.client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProofApplicationTests {
+class ClientApplicationTests {
 
 	@Test
 	void contextLoads() {
